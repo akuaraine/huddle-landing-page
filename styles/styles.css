@@ -102,7 +102,7 @@ h1{
     height: 40px;
 }
 
-.social-icon:hover {
+.social a:hover {
     cursor: pointer;
     color: hsl(300, 69%, 71%);
     border-color:hsl(300, 69%, 71%);
